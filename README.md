@@ -11,7 +11,7 @@ Mobil RC 4WD berbasis ESP32 yang dikontrol via MQTT menggunakan browser.
 - Motor DC x4
 - Holder Baterai 18650 2 Slot
 
-## Koneksi Pin (sesuai skema)
+## Koneksi Pin
 | ESP32 | L298N |
 |-------|-------|
 | GPIO26 | IN1 |
